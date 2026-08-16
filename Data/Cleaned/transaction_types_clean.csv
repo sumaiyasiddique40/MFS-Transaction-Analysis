@@ -1,0 +1,6 @@
+type_id,transaction_type
+TT01,Cash In
+TT02,Cash Out
+TT03,Send Money
+TT04,Bill Pay
+TT05,Mobile Recharge
